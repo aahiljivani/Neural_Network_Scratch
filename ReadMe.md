@@ -33,12 +33,14 @@ A ground-up implementation of neural networks with backpropagation, built to und
 
 ## 🚀 Results
 
-image.png
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/936f0ce8-5ad3-426c-b720-6e47173ab2dd" />
+
 
 **Neuron Activation Image:**
 
 - each neuron learned:
-image.png
+<img width="1489" height="489" alt="image" src="https://github.com/user-attachments/assets/c00888e2-1b06-4b8a-aa00-f90758c71fb2" />
+
 
 **Performance:**
 - Successfully learned sin(2x) + 0.3x² function
