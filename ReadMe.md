@@ -25,7 +25,7 @@ A ground-up implementation of neural networks with backpropagation, built to und
 - Overfitting diagnosis (too many parameters vs data points)
 - Network capacity scaling (10 → 50 neurons for better curves)
 
-**Implementation Help Received:**
+**Implementation Help Received from Claude:**
 - Syntax fixes (`np.random.randn()` parameter format)
 - Matrix multiplication in backprop (`input.T @ grad`)
 - Data generation and plotting code
@@ -46,7 +46,3 @@ A ground-up implementation of neural networks with backpropagation, built to und
 - Successfully learned sin(2x) + 0.3x² function
 - Training MSE: [your number]
 - Demonstrates proper non-linear function approximation
-
-## 💡 Why This Approach?
-
-I wanted to build genuine understanding, not just copy working code. The collaboration helped with syntax while I drove the conceptual understanding and debugging process.
